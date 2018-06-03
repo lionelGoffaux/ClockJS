@@ -2,7 +2,7 @@
 
 A js clock
 
-##setup
+## setup
 
 First create a canvas tag and add clock.js
 
