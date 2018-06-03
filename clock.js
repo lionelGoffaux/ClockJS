@@ -125,7 +125,7 @@ class Clock {
     }
 
     /**
-     * Fixes teh clock's radius
+     * Fixes the clock's radius
      */
     setClockRadius(){
         if(this.height < this.width){
