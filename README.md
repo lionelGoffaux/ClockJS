@@ -19,7 +19,7 @@ First create a canvas tag and add clock.js
 Then instantiate a new clock with the canvas element as parameter
 
 ```javascript
-new Clock (document.querySelector("#clock")
+new Clock (document.querySelector("#clock"))
 ```
 The constructor can also take some options
 
